@@ -1,6 +1,6 @@
 # Tutorial  2
 
-Video Tutorial 2 : [http://website-templates.github.io/marketing-agency_one-page-template](https://drive.google.com/drive/folders/1FgzhaihsnMauabi5lHAYAuPXgJiqfmyi?usp=sharing)
+Video Tutorial 2 : [http://website-templates.github.io/marketing-agency_one-page-template](https://github.com/daniela1605/TutorialeUnity/blob/main/VideoTutorial2.pdf)
 
 
 
