@@ -10,7 +10,6 @@ Video Tutorial 3 : [http://website-templates.github.io/marketing-agency_one-page
 
 | **Tutorial** | **Tipo**         | **Enlace** |
 |---------------|------------------|-------------|
-| Tutorial 2    | Videotutorial 2  | [Clic aquí](http://website-templates.github.io/marketing-agency_one-page-template) |
-| Tutorial 3    | Tutorial 3       | [Clic aquí](http://website-templates.github.io/marketing-agency_one-page-template) |
-| Tutorial 3    | Videotutorial 3  | [Clic aquí](http://website-templates.github.io/marketing-agency_one-page-template) |
+| Tutorial 2    | Videotutorial 2  | [Video](https://drive.google.com/file/d/1TZY2HgwJMPkDV-j6sCc5RZ2HHIqMxXAg/view?usp=sharing) |
+| Tutorial 3    | Videotutorial 3  | [Video](https://drive.google.com/file/d/1tnWvj_0YQampEhcrYVv4oEJl4QBvkrUW/view?usp=drive_link) |
 
